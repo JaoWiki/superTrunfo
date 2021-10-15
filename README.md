@@ -1,2 +1,0 @@
-# superTrunfo
-Site Super Trunfo
